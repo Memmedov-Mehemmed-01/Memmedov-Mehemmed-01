@@ -1,5 +1,5 @@
 # 🪪 Haqqımda:
-👋 Salam, mən Məhəmməd Məmmədov.<br>Frontend developer sahəsinə 2020-ci ildə maraq göstərməyə başlamışam, amma son bir ildir bu sahəyə davamlı vaxt ayırıb, özümü ciddi şəkildə inkişaf etdirirəm.<br> Sadəcə Frontend yox, mobil application developer sahəsində də peşəkarlaşmaq istəyirəm.
+👋 Salam, mən Məhəmməd Məmmədov.<br>Frontend developer sahəsinə 2020-ci ildə maraq göstərməyə başlamışam, amma son bir ildir bu sahəyə davamlı vaxt ayırıb, özümü ciddi şəkildə inkişaf etdirirəm.<br> Hədəfim sadəcə Frontend yox, mobil application developer sahəsində də peşəkarlaşmaqdır.
 
 
 ## 🌐 Socials:
