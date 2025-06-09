@@ -1,5 +1,5 @@
-# 💫 Haqqımda:
-👋 Salam, mən Məhəmməd Məmmədov<br>Frontend inkişafına 2020-ci ildə maraq göstərməyə başlamışam, amma son bir ildir bu sahəyə davamlı vaxt ayırıb, özümü ciddi şəkildə inkişaf etdirirəm.<br>HTML, CSS, SCSS, JavaScript, TypeScript, React.js, Next.js, Redux, Bootstrap və Git kimi texnologiyalarla layihələr hazırlayıram. Sadəcə frontend yox, mobil tətbiq inkişafı sahəsində də peşəkarlaşmaq istəyirəm.
+# 🪪 Haqqımda:
+👋 Salam, mən Məhəmməd Məmmədov.<br>Frontend inkişafına 2020-ci ildə maraq göstərməyə başlamışam, amma son bir ildir bu sahəyə davamlı vaxt ayırıb, özümü ciddi şəkildə inkişaf etdirirəm.<br>HTML, CSS, SCSS, JavaScript, TypeScript, React.js, Next.js, Redux, Bootstrap və Git kimi texnologiyalarla layihələr hazırlayıram. Sadəcə frontend yox, mobil tətbiq inkişafı sahəsində də peşəkarlaşmaq istəyirəm.
 
 
 ## 🌐 Socials:
